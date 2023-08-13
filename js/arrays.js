@@ -1,0 +1,19 @@
+export const bad = ['Y solo mírame con esos ojitos lindos, que, con eso, yo estoy bien, hoy he vuelto a nacer.', 'Con tu alma es la que yo conecto, tranquila, no tiene que ser perfecto, no.', 'Yo no me dejo llevar de nadie, yo solo me dejo llevar de tu sonrisa.'];
+
+export const dread = ['Y ahora estas tú sin mí, y qué hago con mi amor, el que era para ti, y con toda la ilusión de que un día tú fueras solamente para mí, oh, para mí.', 'Es triste ver que un tren se aleja, y en él se va lo mejor de tu vida, dime el motivo de tu despedida, porque te fuiste dejando mil penas.', 'Nada, nada volverá a ser lo que fue, puras ilusiones sin saber cuánto tiempo más para entender que esto fue ayer.'];
+
+export const hugito = ['Le dije al cieloQue te fuiste, y empezó a llorar. Seguro se acordó del día en que te conocí.', 'No es secreto, perdóname por no decirte que no soy perfecto. Y ahora que estás sola, dime si me echas de menos, tan solo un poquito.', 'Para no ser de nuevo eso que siempre fui, y ya no quiero ser. Me duele cada que me acuerdo de tus besos. Me duele porque el tiempo va de ida y va sin ruta de regreso.'];
+
+export const calamaro = ['Quiero vivir dos veces para poder olvidarte. Quiero llevarte conmigo y no voy a ninguna parte', 'Siempre seguí la misma dirección, la difícil, la que usa el salmón', 'Para qué contar el tiempo que nos queda, para qué contar el tiempo que se ha ido, si vivir es un regalo y un presente, mitad despierto, mitad dormido'];
+
+export const kePersonajes = ['Me gusta ver la vida pasar, me gusta verla contigo. Quisiera ser tu bastón al caminar, Y al despertarme, tu abrigo.', 'Ya pasamos meses separados, y solo estoy, no me acostumbro a dormir solo. Sin tu calor', 'Si tú supieras que tengo ganas de conocerte, de tenerte conmigo siempre. Sería re loco estar así los dos enamorados, abrazados hasta las manos'];
+
+export const laKonga = ['Rómpeme el corazón sin sentido y razón. Aunque sepas lo que sufro en mi habitación, que haré como que no me dolió, Como que nunca pasó', 'Me daría tal vergüenza, si te dieras cuenta ahora que no puedo ni mirarte. Que enloquezco por completo', 'Mirarte tan solo un instante. Pero tranquila, que tan solo vine. Tan solo vine para despedirme'];
+
+export const cafres = ['Yo te voy a rescatar si te resbala la vida. Si hay barro en tu pecho lavaré las heridas', 'Tus ojitos al querer brillan como la miel, sentir tus manitos sobre mi vivir tu dulce inocencia, me duele tanto querer, espero cada día, por ver esa sonrisa', 'Anoche soñabas un lugar cálido y suave que es eso tan mágico que lo hace tan real, es que alguien te cuida, no nunca se olvida. Es que alguien te cuida desde más allá.'];
+
+export const piojos = ['Quizá no sea el vino, quizá no sea el postre, quizá no sea nada, pero hay tanta belleza tirada en la mesa desnuda, toda rebalsada', 'Fasolita, querido, a ver cuándo venís por acá. Fasolita, querido, que te quiero ver, te quiero contar, lo mal que se vive, lo bien que se está', 'A veces sí, a veces te pasa, sobre todo cuando dejas tu casa y ves, solo estoy sin dirección, como un taxi boy voy.'];
+
+export const redondos = ['Alguna vez, quizás, se te va la mano y las llamas en pena invaden tu cuerpo', 'Vas en la oscura multitud desprevenido, tiranizando a quienes te han querido', 'En tu ternura está acechándome una buena traición de mujer que echa hielo y brasas en mi corazón'];
+
+export const marioLuis = ['Falta besarte más acariciarte, además hay promesas de esas que hay que cumplir, no te puedes ir.', 'Te amo, pero no quiero oirte, ni mirarte. Por eso Dios me libre, tengo miedo de perder.', 'Que no es lo mismo verse en el espejo, que te siento lejos. Que muero por dentro y escucho en silencio, Que la lluvia dice que ya te perdí.']
