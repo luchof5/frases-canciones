@@ -75,6 +75,7 @@ function imprimirFrase(artista) {
     modalBody.innerHTML = artista;    
 }
 
+// Titulo de la frase
 function cambiarTitulo(artista) {
     const titulo = document.querySelector('#exampleModalLabel');
     titulo.innerHTML = artista;
