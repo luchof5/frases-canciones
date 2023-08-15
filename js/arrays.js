@@ -16,4 +16,8 @@ export const piojos = ['Quizá no sea el vino, quizá no sea el postre, quizá n
 
 export const redondos = ['Alguna vez, quizás, se te va la mano y las llamas en pena invaden tu cuerpo', 'Vas en la oscura multitud desprevenido, tiranizando a quienes te han querido', 'En tu ternura está acechándome una buena traición de mujer que echa hielo y brasas en mi corazón'];
 
-export const marioLuis = ['Falta besarte más acariciarte, además hay promesas de esas que hay que cumplir, no te puedes ir.', 'Te amo, pero no quiero oirte, ni mirarte. Por eso Dios me libre, tengo miedo de perder.', 'Que no es lo mismo verse en el espejo, que te siento lejos. Que muero por dentro y escucho en silencio, Que la lluvia dice que ya te perdí.']
+export const marioLuis = ['Falta besarte más acariciarte, además hay promesas de esas que hay que cumplir, no te puedes ir.', 'Te amo, pero no quiero oirte, ni mirarte. Por eso Dios me libre, tengo miedo de perder.', 'Que no es lo mismo verse en el espejo, que te siento lejos. Que muero por dentro y escucho en silencio, Que la lluvia dice que ya te perdí.'];
+
+export const ntvg = ['Es privilegio del ser humano, saber que nada, pero nada fue en vano.', 'Hay que saber aceptar que existen los días magros, porque son el contrapeso de los que traen milagros. Ahora yo disfruto de verme parado, es sólo porque supe soportar estar arrodillado.', 'Yo lo que quiero es volar, volar. Prefiero volar. Tal vez es más fácil quedarse a mirar, pensando en otra cosa, dudando de si está bien o está mal, pero eso que te importa.'];
+
+export const tapari = ['Era más fácil decirnos adiós que lastimarnos tanto. Hubiera sido mejor que llorarnos pedirnos perdón, pero no fue mi culpa', 'Fue difícil entender que ya no me querías. Qué gran error, haberme entregado tanto a ti', 'Está soplando el viento, sicen que está nublado. Y si llega a llover, no te preocupes. Ya está cuidado'];
